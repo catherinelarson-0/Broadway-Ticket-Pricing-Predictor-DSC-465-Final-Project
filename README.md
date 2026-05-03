@@ -39,3 +39,12 @@ This project was developed as a part of the DSC 465 - Machine Learning course.
 | [Harrison Nordmeyer] | [@HarrisonNordmeyer](https://github.com/HarrisonNordmeyer) |
 
 ---
+
+## 🔍 References
+Maxwell, D. (2024, March 22). The Truth About Ticket Prices - Is Greed Killing the West End? The Sunday Times.                                             https://www.thetimes.com/culture/theatre-dance/article/the-truth-about-ticket-prices-is-greed-killing-the-west-end-zv7m6sr6v.
+
+Nace, A. K. (2021) Hamilton: Gross Box Office and Sentiment Analysis for Broadway Shows.
+
+Shahani, Praheen. “Broadway Shows Data.” Kaggle, https://www.kaggle.com/datasets/praveensh/broadway-shows-data.
+
+Simunovic, A. (2025). Machine Learning-Driven Ticket Sales Prediction and Strategic Applications. [Unpublished master’s thesis]. Paris Lodron              University of Salzburg. https://eplus.uni-salzburg.at/Abschlussarbeiten/content/titleinfo/12485190
