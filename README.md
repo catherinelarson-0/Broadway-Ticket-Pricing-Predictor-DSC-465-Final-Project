@@ -20,7 +20,7 @@ The data contains entries from the years 1985-2022, omitting entries during the 
 | Average_ticket | The average ticket price for the production in the current entry's week. |
 | Seats_Sold | The number of seats sold to ticketholders in the current entry's week. |
 | Seats_in_theater | The number of seats in the current entry's theatre (assists in determining capacity and percentage of capacity). |
-| Previews | [Definition of a Preview](). The number of shows with this designation for a given production, per week. |
+| Previews | The number of shows with this designation for a given production, per week. |
 | %cap | Mathematical Calculation that corresponds to the percentage of sold seats in the theater: Seats_Sold / (Seats_in_theater) * 8|
 | diff_cap | The difference between the previous week's percentage capacity met, and the current week's percentage capacity met. |
 
