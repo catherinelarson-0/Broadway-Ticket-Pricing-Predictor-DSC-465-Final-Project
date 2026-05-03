@@ -30,7 +30,9 @@ The data contains entries from the years 1985-2022, omitting entries during the 
 
 ## 📢 Deployment
 
-This project was deployed utilizing [HuggingFace](https://huggingface.co/spaces/Harrisonnord/DSC-465_Final_project/commits/main). It is publicly-available for prediction usage at the link provided.
+This project was deployed utilizing [HuggingFace](https://huggingface.co/spaces/Harrisonnord/DSC-465_Final_project/commits/main). It is publicly-available for prediction usage at the link provided. 
+
+The code for the CNN/LSTM model is viewable at [this link](https://github.com/catherinelarson-0/Broadway-Ticket-Pricing-Predictor-DSC-465-Final-Project/blob/main/Adjusted_Broadway_Model.ipynb).
 
 ### Limitations
 The publicly-available dataset only contained data until 2022. Therefore, the model does not predict data past 2023. However, this is the reason why one of our primary project goals was to create an adaptable model. In the case that the data is updated with more recent dates, then with its adaptive capabilities, the model should continue to run with a high accuracy.
