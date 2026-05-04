@@ -34,6 +34,8 @@ This project was deployed utilizing [HuggingFace](https://huggingface.co/spaces/
 
 The code for the CNN/LSTM model is viewable at [this link](https://github.com/catherinelarson-0/Broadway-Ticket-Pricing-Predictor-DSC-465-Final-Project/blob/main/Adjusted_Broadway_Model.ipynb).
 
+The code for the ANN model is viewable at [this link](https://github.com/catherinelarson-0/Broadway-Ticket-Pricing-Predictor-DSC-465-Final-Project/blob/main/ANN_Model.ipynb), though the CNN/LSTM model implementation yielded more accurate results. The ANN model was <em>not</em> deployed.
+
 ### Limitations
 The publicly-available dataset only contained data until 2022. Therefore, the model does not predict data past 2023. However, this is the reason why one of our primary project goals was to create an adaptable model. In the case that the data is updated with more recent dates, then with its adaptive capabilities, the model should continue to run with a high accuracy.
 
